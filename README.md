@@ -8,7 +8,7 @@
     1. Modificare il contenuto del file.
 1. Creare un repository su GitHub e collegarlo a quello locale.
 1. Allineare il repository remoto su GitHub con le modifiche effettuate.
-1. **Consegnare su Classroom uno screenshot con i comandi eseguiti dalla shell e il repository locale.**
+1. **Consegnare su Classroom uno screenshot con i comandi eseguiti dalla bash e il repository locale.**
 
 ## Secondo esercizio
 
@@ -20,4 +20,4 @@
 1. Riportare sul main solo la modifica i. e iii.
 1. Allineare il repository remoto su GitHub con le modifiche effettuate.
 1. Risolvere eventuali conflitti.
-1. **Consegnare su Classroom uno screenshot con i comandi eseguiti dalla shell.**
+1. **Consegnare su Classroom uno screenshot con i comandi eseguiti dalla bash.**
