@@ -13,10 +13,12 @@
 ## Secondo esercizio
 
 1. Creare una **copia locale** di questo repository .
+1. Effettuare la seguente **modifica** al file *.css*:
+    1. Modificare il colore di sfondo.
 1. Creare un nuovo **branch** di lavoro ed effettuare le seguenti **modifiche** al file *.css* (in più commit):
     1. Modificare il colore di sfondo,
     1. Modificare la dimensione del paragrafo,
     1. Modificare l'allineamento del tag *H1*.
-1. Riportare sul main le modifiche.
+1. Riportare sul main le modifiche e risolvere eventuali conflitti.
 1. Allineare il repository remoto su GitHub con le modifiche effettuate.
 1. **Consegnare su Classroom uno screenshot con i comandi eseguiti dalla bash.**
