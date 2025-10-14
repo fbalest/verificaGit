@@ -1,4 +1,4 @@
-# Verifica di laboratorio Git
+# Verifica di laboratorio Git (MAX 10pt)
 
 ## Esercizio 1 (2pt)
 1. Creare un repository Git in locale.
