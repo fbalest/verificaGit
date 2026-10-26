@@ -15,7 +15,7 @@
     1. Modificare il colore di sfondo,
     1. Modificare la dimensione del paragrafo,
     1. Modificare l'allineamento del tag *H1*.
-1. Riportare sul main solo la modifica ii. e iii.
+1. Riportare sul main le modifiche effettuate.
 1. Allineare il repository remoto su GitHub con le modifiche effettuate (*access token:* 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).
 1. **Consegnare su Classroom uno screenshot con i comandi eseguiti dalla bash.**
 
@@ -30,5 +30,4 @@
     2. Aggiungere una riga al file es3 con l'indirizzo di abitazione
 1. Eseguire il merge del branch sul main
 2. Risolvere evetuali conflitti affichè il file contenga nome, cognome e indirizzo
-1. Eseguire la Pull del repository
 1. **Consegnare su Classroom uno screenshot con i comandi eseguiti dalla bash e il repository locale.**
